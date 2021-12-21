@@ -1,5 +1,5 @@
 /**
- * @file #47-01beibao.cpp
+ * @file #47. 练习题4：0/1背包
  * @author github-wsz (2506266391@qq.com)
  * @brief
  * @version 0.1

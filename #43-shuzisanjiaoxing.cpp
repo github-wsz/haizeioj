@@ -1,5 +1,5 @@
 /**
- * @file #43-shuzisanjiaoxing.cpp
+ * @file #43. 数字三角形
  * @author github-wsz (2506266391@qq.com)
  * @brief
  * @version 0.1
